@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 📝 Introduction:
 
 This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.
@@ -221,3 +222,6 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+# DevOps-Kubernetes-and-Monitoring
+>>>>>>> c211f64b098810ec6cf31c3dc87bfbfdfd92be3a
